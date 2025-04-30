@@ -32,3 +32,8 @@ Icon?
 Desktop.ini
 
 # optional: ignore personal project folders
+node_modules/
+build/
+dist/
+.vscode/
+.env
